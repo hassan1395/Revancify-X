@@ -1,8 +1,6 @@
-# NOTICE
-### Revancify project is currently dead and doesn't work as of now. Stay tuned for future updates!
-
-# Revancify 🛠️ ![Hi](https://img.shields.io/github/stars/kastentop2005/Revancify?style=flat-square)
+# Revancify X🛠️ ![Hi](https://img.shields.io/github/stars/kastentop2005/Revancify?style=flat-square)
 ### A TUI wrapper for Revanced CLI with amazing features.
+Revancify X is a continuation of the discontinued Revancify manager by [decipher3114](https://github.com/decipher3114)
 
 ## Termux
 | Android Version | Download Link|
